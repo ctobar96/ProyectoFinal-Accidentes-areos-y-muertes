@@ -1,10 +1,10 @@
 # Proyecto Final: Accidentes Aéreos y Muertes
 
-## Descripción
-Este proyecto es el trabajo final de la asignatura de Python para Data Science. El objetivo es analizar un conjunto de datos sobre accidentes aéreos y muertes, proporcionando información valiosa sobre la seguridad aérea.
+## 📌 Descripción
+Este proyecto es el trabajo final de la asignatura de **Python para Data Science**. Su objetivo principal es analizar un conjunto de datos sobre accidentes aéreos y muertes, proporcionando información valiosa sobre la **seguridad aérea**.
 
-## Conjunto de Datos
-El conjunto de datos incluye información sobre:
+## 📊 Conjunto de Datos
+El conjunto de datos incluye información relevante, como:
 - **Fecha y hora** del accidente
 - **Ubicación**
 - **Operador** de la aeronave
@@ -16,25 +16,37 @@ El conjunto de datos incluye información sobre:
 - **Víctimas mortales**
 - **Resumen del accidente**
 
-## Objetivos
+## 🎯 Objetivos
+Este análisis persigue los siguientes objetivos:
 - Inspección de los datos
 - Limpieza de datos
 - Visualización de datos
 
-## Herramientas Utilizadas
-- **Python**
-- **Jupyter Notebook**
-- **Pandas** para la manipulación de datos
-- **Matplotlib** y **Seaborn** para visualización
+## 🛠️ Tech Stack Principal
+Las principales tecnologías empleadas en este proyecto son:
+- **Procesamiento:** Python 3.10, Pandas, NumPy
+- **Visualización:** Matplotlib, Seaborn, Plotly
+- **Entorno:** Jupyter Lab, VS Code
+- **Control de Versiones:** Git, GitHub Actions
 
-## Instalación
-Para ejecutar este proyecto, asegúrate de tener instalado Python y Jupyter Notebook. Puedes instalar las dependencias necesarias usando:
+## 🚀 Instalación
+Para ejecutar este proyecto en tu máquina local, asegúrate de tener instalado **Python** y **Jupyter Notebook**. Luego, instala las dependencias necesarias mediante:
 
-```bash
-pip install pandas matplotlib seaborn
-```
+   ```bash
+   pip install pandas matplotlib seaborn
+   ```
 
-## Uso
+## 📂 Estructura del Proyecto
+ProyectoFinal-Accidentes-Aereos-y-Muertes/
+│── data/                # Datos crudos y procesados
+│── notebooks/           # Análisis y exploraciones en Jupyter Notebook
+│── scripts/             # Código para limpieza y análisis de datos
+│── README.md            # Documentación del proyecto
+│── requirements.txt     # Dependencias del proyecto
+│── .gitignore           # Archivos ignorados por Git
+
+
+## 🚀 Cómo Empezar
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/ctobar96/ProyectoFinal-Accidentes-areos-y-muertes.git
@@ -48,12 +60,11 @@ pip install pandas matplotlib seaborn
    jupyter notebook
    ```
 
-## Licencia
+## 📄 Licencia
 Este proyecto no especifica una licencia. Por favor, consulta el repositorio para más detalles.
 
-## Contribuciones
-Las contribuciones son bienvenidas. Si deseas colaborar, por favor abre un issue o envía un pull request.
+---
 
-## Contacto
-Para más información, puedes contactar a [tu nombre o correo electrónico].
-
+👨💻 **Autor:** Cristian Tobar Morales  
+📧 **Contacto:** cristiantobarmorales@gmail.com  
+🔗 **LinkedIn:** [](https://www.linkedin.com/in/tu-perfil)
