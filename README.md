@@ -40,12 +40,7 @@ Para ejecutar este proyecto en tu máquina local, asegúrate de tener instalado 
 
    ```bash
 ProyectoFinal-Accidentes-Aereos-y-Muertes/
-│── data/                # Datos crudos y procesados
-│── notebooks/           # Análisis y exploraciones en Jupyter Notebook
-│── scripts/             # Código para limpieza y análisis de datos
-│── README.md            # Documentación del proyecto
-│── requirements.txt     # Dependencias del proyecto
-│── .gitignore           # Archivos ignorados por Git
+
    ```
 
 ## 🚀 Cómo Empezar
