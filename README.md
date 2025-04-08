@@ -37,6 +37,8 @@ Para ejecutar este proyecto en tu máquina local, asegúrate de tener instalado 
    ```
 
 ## 📂 Estructura del Proyecto
+
+   ```bash
 ProyectoFinal-Accidentes-Aereos-y-Muertes/
 │── data/                # Datos crudos y procesados
 │── notebooks/           # Análisis y exploraciones en Jupyter Notebook
@@ -44,7 +46,7 @@ ProyectoFinal-Accidentes-Aereos-y-Muertes/
 │── README.md            # Documentación del proyecto
 │── requirements.txt     # Dependencias del proyecto
 │── .gitignore           # Archivos ignorados por Git
-
+   ```
 
 ## 🚀 Cómo Empezar
 1. Clona el repositorio:
